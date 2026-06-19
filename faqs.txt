@@ -1,9 +1,99 @@
-What is your return policy?|You can return products within 30 days.
+What is your return policy?|Returns are accepted within 30 days of purchase.
 
-How can I track my order?|You can track your order using the tracking link sent to your email.
+How can I get a refund?|Refunds are processed within 5-7 business days after approval.
 
-Do you offer refunds?|Yes, refunds are processed within 5-7 business days.
+How do I contact customer support?|You can contact customer support via email or phone.
 
-How can I contact support?|You can contact support at support@example.com.
+Can I cancel my order?|Yes, orders can be cancelled before they are shipped.
 
-What payment methods do you accept?|We accept credit cards, debit cards, and UPI.
+How can I track my order?|Use the tracking ID sent to your email.
+
+What payment methods do you accept?|We accept credit cards, debit cards, UPI, and net banking.
+
+Do you offer international shipping?|Yes, we ship to selected countries worldwide.
+
+How long does delivery take?|Delivery usually takes 3-7 business days.
+
+Can I change my delivery address?|Yes, before the order has been shipped.
+
+What if I receive a damaged product?|Contact support for a replacement or refund.
+
+How do I create an account?|Click Sign Up and fill in the required details.
+
+I forgot my password. What should I do?|Use the Forgot Password option to reset it.
+
+Can I place an order without an account?|Yes, guest checkout is available.
+
+How do I update my profile information?|Go to Account Settings and edit your profile.
+
+Is my payment information secure?|Yes, all transactions are encrypted and secure.
+
+Why was my payment declined?|Please check your card details or contact your bank.
+
+Can I use multiple payment methods?|Currently, only one payment method can be used per order.
+
+Do you offer cash on delivery?|Yes, cash on delivery is available in selected locations.
+
+How do I apply a coupon code?|Enter the coupon code during checkout.
+
+Why is my coupon not working?|The coupon may be expired or not applicable.
+
+Can I modify my order after placing it?|Orders can be modified before shipment.
+
+How do I know if my order is confirmed?|You will receive a confirmation email.
+
+What happens if I miss my delivery?|The courier may attempt delivery again.
+
+Can I schedule a delivery date?|This option is available in selected areas.
+
+Do you provide express shipping?|Yes, express shipping is available for eligible products.
+
+How do I check product availability?|Availability is shown on the product page.
+
+Will I receive an invoice?|Yes, an invoice is sent with every order.
+
+Can I return a sale item?|Sale items may have different return policies.
+
+What if my order is delayed?|Please check tracking information or contact support.
+
+How can I leave a product review?|Visit the product page and submit a review.
+
+Can I exchange a product?|Yes, exchanges are available for eligible items.
+
+Do you charge shipping fees?|Shipping fees depend on the order value and location.
+
+How do I unsubscribe from emails?|Click the unsubscribe link in any email.
+
+Can I save items for later?|Yes, use the wishlist feature.
+
+What is a wishlist?|A wishlist allows you to save products for future purchase.
+
+Do prices include taxes?|Taxes are calculated during checkout.
+
+How can I delete my account?|Contact customer support to request account deletion.
+
+Why was my order cancelled?|Orders may be cancelled due to payment or stock issues.
+
+What should I do if I receive the wrong item?|Contact support for a replacement.
+
+Can I reorder a previous purchase?|Yes, previous orders can be reordered from your account.
+
+How do I check my order history?|Go to My Orders in your account dashboard.
+
+What if an item is out of stock?|You can request a notification when it becomes available.
+
+Do you offer gift wrapping?|Yes, gift wrapping is available for selected products.
+
+Can I send a gift directly to someone?|Yes, enter the recipient's address during checkout.
+
+How do I contact technical support?|Use the Contact Us page for technical assistance.
+
+What are your customer support hours?|Customer support is available Monday to Saturday, 9 AM to 6 PM.
+
+How can I report a problem with the website?|Contact support and describe the issue.
+
+Do you provide product warranties?|Warranty availability depends on the product.
+
+How can I check warranty details?|Warranty information is listed on the product page.
+
+Can I speak to a live agent?|Yes, live chat support is available during business hours.
