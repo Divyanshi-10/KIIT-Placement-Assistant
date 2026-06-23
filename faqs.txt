@@ -1,99 +1,281 @@
-What is your return policy?|Returns are accepted within 30 days of purchase.
+What is a PPO?|A PPO (Pre-Placement Offer) is a job offer given to a student based on internship performance.
+What is a placement drive?|A placement drive is a recruitment event conducted by a company to hire students.
+What is campus placement?|Campus placement is the process where companies recruit students directly from the university.
+What is an internship?|An internship is a temporary work opportunity that helps students gain practical experience.
+What is an OA?|An Online Assessment (OA) is an online test conducted by companies for screening candidates.
+What is a coding round?|A coding round evaluates a student's programming and problem-solving skills.
+What is a technical interview?|A technical interview tests subject knowledge, coding skills, and problem-solving ability.
+What is an HR interview?|An HR interview evaluates communication skills, personality, and cultural fit.
+Why is DSA important for placements?|DSA helps students solve coding problems efficiently in interviews and assessments.
+What is aptitude preparation?|Aptitude preparation involves practicing quantitative, logical reasoning, and verbal questions.
+Why is communication important in placements?|Good communication helps students perform better in interviews and group discussions.
+What is a resume?|A resume is a document that summarizes education, skills, projects, and achievements.
+Why are projects important?|Projects demonstrate practical skills and real-world problem-solving abilities.
+What is a dream offer?|A dream offer is a high-paying placement offer compared to regular offers.
+What is a super dream offer?|A super dream offer is an exceptionally high-paying offer from top recruiters.
+What is a service-based company?|A service-based company provides technology services to clients.
+What is a product-based company?|A product-based company develops and sells its own products or software.
+What is CGPA?|CGPA is the cumulative grade point average of a student's academic performance.
+Why should I maintain a good CGPA?|Many companies use CGPA as an eligibility criterion during placements.
+What is a backlog?|A backlog is an uncleared academic subject.
+Can backlogs affect placements?|Yes, some companies do not allow students with active backlogs to apply.
+What is off-campus placement?|Off-campus placement refers to applying directly through company websites or job portals.
+What is on-campus placement?|On-campus placement is recruitment organized through the university placement cell.
+What is a referral?|A referral is a recommendation from an employee to help a candidate apply for a role.
+What is LinkedIn?|LinkedIn is a professional networking platform used for career opportunities.
+Why should students use LinkedIn?|LinkedIn helps students network, learn, and discover job opportunities.
+What is GitHub?|GitHub is a platform used to host and manage software projects.
+Why is GitHub important?|GitHub helps showcase coding projects and development skills.
+What is open source?|Open source refers to software whose source code is publicly available.
+Why contribute to open source?|Open-source contributions improve coding skills and strengthen resumes.
+What is a hackathon?|A hackathon is a competitive event where participants build projects within a limited time.
+What is a coding contest?|A coding contest is a competition that tests algorithmic problem-solving skills.
+What is LeetCode?|LeetCode is a platform used to practice coding interview questions.
+What is Codeforces?|Codeforces is a competitive programming platform.
+What is HackerRank?|HackerRank is a platform for coding practice and assessments.
+How many projects should I have?|Students should ideally have 2–4 strong projects on their resume.
+What makes a project impressive?|A project is impressive if it solves a real problem and demonstrates technical skills.
+Should I include academic projects on my resume?|Yes, if they demonstrate relevant skills and learning.
+What is a full-stack project?|A full-stack project includes both frontend and backend development.
+What is an AI project?|An AI project uses machine learning or artificial intelligence techniques.
+What is machine learning?|Machine learning enables computers to learn patterns from data.
+What is NLP?|Natural Language Processing helps computers understand human language.
+What is RAG?|RAG stands for Retrieval-Augmented Generation.
+What is an LLM?|An LLM is a Large Language Model trained on large amounts of text.
+What is TF-IDF?|TF-IDF is a technique used to measure word importance in documents.
+What is cosine similarity?|Cosine similarity measures how similar two text vectors are.
+What is vectorization?|Vectorization converts text into numerical representations.
+What is retrieval-based search?|Retrieval-based search finds the most relevant stored information.
+What is a chatbot?|A chatbot is a program that simulates conversation with users.
+What is Flask?|Flask is a lightweight Python web framework.
+What is an API?|An API allows software applications to communicate with each other.
+What is REST API?|A REST API follows web standards for communication between systems.
+What is JSON?|JSON is a format used for storing and exchanging data.
+What is frontend development?|Frontend development focuses on the user interface of a website.
+What is backend development?|Backend development handles server-side logic and data processing.
+What is a database?|A database stores and manages structured information.
+What is SQL?|SQL is a language used to manage relational databases.
+What is MongoDB?|MongoDB is a NoSQL database used for storing flexible data.
+What is cloud computing?|Cloud computing provides computing services over the internet.
+What is AWS?|AWS is Amazon's cloud computing platform.
+What is deployment?|Deployment is the process of making an application accessible to users.
+What is Railway?|Railway is a platform used to deploy web applications.
+What is Render?|Render is a cloud platform used for hosting applications.
+What is version control?|Version control tracks changes made to code over time.
+What is Git?|Git is a distributed version control system.
+What is a branch in Git?|A branch allows developers to work on features independently.
+What is a commit?|A commit records changes made to a project.
+What is a pull request?|A pull request proposes code changes for review.
+What is debugging?|Debugging is the process of finding and fixing errors in code.
+What is software testing?|Software testing verifies that applications work correctly.
+What is object-oriented programming?|OOP organizes code using objects and classes.
+What is a class?|A class is a blueprint for creating objects.
+What is an object?|An object is an instance of a class.
+What is inheritance?|Inheritance allows a class to reuse properties of another class.
+What is polymorphism?|Polymorphism allows the same interface to behave differently.
+What is encapsulation?|Encapsulation hides internal implementation details.
+What is a linked list?|A linked list is a linear data structure consisting of connected nodes.
+What is a stack?|A stack follows the Last-In-First-Out principle.
+What is a queue?|A queue follows the First-In-First-Out principle.
+What is a tree?|A tree is a hierarchical data structure.
+What is a graph?|A graph consists of nodes connected by edges.
+What is a hash table?|A hash table stores data using key-value pairs.
+What is recursion?|Recursion occurs when a function calls itself.
+What is dynamic programming?|Dynamic programming solves problems by storing intermediate results.
+What is time complexity?|Time complexity measures the efficiency of an algorithm.
+What is space complexity?|Space complexity measures memory usage of an algorithm.
+What is Big O notation?|Big O notation describes algorithm performance.
+How should I prepare for placements in third year?|Focus on DSA, projects, internships, aptitude, and interview preparation.
+How many coding problems should I solve?|Consistent practice of 200–300 quality problems is beneficial.
+Should I practice aptitude daily?|Regular aptitude practice improves placement readiness.
+What should I do before an interview?|Review fundamentals, projects, resume, and company information.
+How should I answer project-related questions?|Explain the problem, approach, technologies used, and outcomes.
+What is networking?|Networking involves building professional relationships.
+Can internships improve placement chances?|Yes, internships provide experience and strengthen profiles.
+How can I improve coding skills?|Practice DSA, build projects, and participate in coding contests.
+What is the best placement strategy?|Maintain CGPA, strengthen DSA, build projects, and prepare consistently.
+What is the KIIT Training and Placement Cell?|The KIIT Training and Placement Cell coordinates internships, placements, training programs, and recruiter interactions.
 
-How can I get a refund?|Refunds are processed within 5-7 business days after approval.
+What is the role of the placement cell?|The placement cell helps students prepare for and participate in recruitment processes.
 
-How do I contact customer support?|You can contact customer support via email or phone.
+Does KIIT provide placement assistance?|Yes, KIIT provides placement assistance through its centralized placement system.
 
-Can I cancel my order?|Yes, orders can be cancelled before they are shipped.
+When do placements usually begin?|Placement activities generally begin during the pre-final and final years.
 
-How can I track my order?|Use the tracking ID sent to your email.
+Can second-year students sit for placements?|No, campus placements are generally conducted for final-year students.
 
-What payment methods do you accept?|We accept credit cards, debit cards, UPI, and net banking.
+Can third-year students get internships?|Yes, many companies offer internship opportunities to pre-final-year students.
 
-Do you offer international shipping?|Yes, we ship to selected countries worldwide.
+What is a placement coordinator?|A placement coordinator helps manage communication between students and the placement cell.
 
-How long does delivery take?|Delivery usually takes 3-7 business days.
+How are placement notices shared?|Placement notices are usually shared through official student communication channels.
 
-Can I change my delivery address?|Yes, before the order has been shipped.
+What is a placement eligibility criterion?|Eligibility criteria are conditions set by companies such as CGPA, branch, or graduation year.
 
-What if I receive a damaged product?|Contact support for a replacement or refund.
+Do all companies have the same eligibility criteria?|No, eligibility criteria vary from company to company.
 
-How do I create an account?|Click Sign Up and fill in the required details.
+Can students from all branches sit for every company?|No, company eligibility often depends on branch requirements.
 
-I forgot my password. What should I do?|Use the Forgot Password option to reset it.
+Why do companies set CGPA cutoffs?|CGPA cutoffs help companies shortlist candidates.
 
-Can I place an order without an account?|Yes, guest checkout is available.
+Can a low CGPA affect placement opportunities?|Yes, some companies have minimum CGPA requirements.
 
-How do I update my profile information?|Go to Account Settings and edit your profile.
+Can students with backlogs apply for placements?|It depends on the company's eligibility criteria.
 
-Is my payment information secure?|Yes, all transactions are encrypted and secure.
+What is a pre-placement talk?|A pre-placement talk is a session where a company explains its roles, culture, and hiring process.
 
-Why was my payment declined?|Please check your card details or contact your bank.
+Should I attend pre-placement talks?|Yes, they provide valuable information about the company and hiring process.
 
-Can I use multiple payment methods?|Currently, only one payment method can be used per order.
+What is a placement season?|Placement season is the period during which companies visit campus for recruitment.
 
-Do you offer cash on delivery?|Yes, cash on delivery is available in selected locations.
+What is a placement offer?|A placement offer is a job offer made by a company to a student.
 
-How do I apply a coupon code?|Enter the coupon code during checkout.
+What happens after receiving an offer?|Students must follow the company's onboarding and documentation process.
 
-Why is my coupon not working?|The coupon may be expired or not applicable.
+What documents are needed for placements?|Students usually need resumes, academic records, identification documents, and photographs.
 
-Can I modify my order after placing it?|Orders can be modified before shipment.
+Why should I keep my resume updated?|An updated resume improves chances of shortlisting.
 
-How do I know if my order is confirmed?|You will receive a confirmation email.
+How many pages should a resume be?|Most student resumes should be limited to one page.
 
-What happens if I miss my delivery?|The courier may attempt delivery again.
+Should I include GitHub on my resume?|Yes, if you have relevant projects and contributions.
 
-Can I schedule a delivery date?|This option is available in selected areas.
+Should I include LinkedIn on my resume?|Yes, maintaining a professional LinkedIn profile is beneficial.
 
-Do you provide express shipping?|Yes, express shipping is available for eligible products.
+How important are internships for placements?|Internships strengthen resumes and provide practical experience.
 
-How do I check product availability?|Availability is shown on the product page.
+Can internships lead to PPOs?|Yes, strong internship performance can result in PPOs.
 
-Will I receive an invoice?|Yes, an invoice is sent with every order.
+What is a company shortlist?|A shortlist contains candidates selected for the next recruitment stage.
 
-Can I return a sale item?|Sale items may have different return policies.
+What happens after being shortlisted?|Candidates proceed to assessments, interviews, or further evaluation rounds.
 
-What if my order is delayed?|Please check tracking information or contact support.
+What is an online coding assessment?|It is a coding test conducted online to evaluate programming skills.
 
-How can I leave a product review?|Visit the product page and submit a review.
+How should I prepare for coding assessments?|Practice DSA, coding questions, and problem-solving regularly.
 
-Can I exchange a product?|Yes, exchanges are available for eligible items.
+What programming languages are commonly accepted?|Many companies accept C++, Java, Python, and similar languages.
 
-Do you charge shipping fees?|Shipping fees depend on the order value and location.
+Do recruiters ask about projects?|Yes, project discussions are common during interviews.
 
-How do I unsubscribe from emails?|Click the unsubscribe link in any email.
+Why do interviewers ask project questions?|They want to assess practical understanding and contribution.
 
-Can I save items for later?|Yes, use the wishlist feature.
+Can I explain challenges faced during a project?|Yes, discussing challenges demonstrates problem-solving ability.
 
-What is a wishlist?|A wishlist allows you to save products for future purchase.
+What should I do if I don't know an interview answer?|Be honest and explain your thought process.
 
-Do prices include taxes?|Taxes are calculated during checkout.
+How important are communication skills?|Communication skills are important during interviews and teamwork discussions.
 
-How can I delete my account?|Contact customer support to request account deletion.
+What is a group discussion?|A group discussion evaluates communication, leadership, and teamwork.
 
-Why was my order cancelled?|Orders may be cancelled due to payment or stock issues.
+How can I improve interview confidence?|Practice mock interviews and improve technical preparation.
 
-What should I do if I receive the wrong item?|Contact support for a replacement.
+Should I research a company before interviews?|Yes, understanding the company helps during interviews.
 
-Can I reorder a previous purchase?|Yes, previous orders can be reordered from your account.
+What is a dream company?|Students often refer to highly desirable companies as dream companies.
 
-How do I check my order history?|Go to My Orders in your account dashboard.
+What is a product company?|A product company develops and maintains its own products.
 
-What if an item is out of stock?|You can request a notification when it becomes available.
+What is a service company?|A service company provides solutions and services to clients.
 
-Do you offer gift wrapping?|Yes, gift wrapping is available for selected products.
+What is a package?|A package refers to the compensation offered by a company.
 
-Can I send a gift directly to someone?|Yes, enter the recipient's address during checkout.
+What does CTC mean?|CTC stands for Cost to Company and represents the total compensation package.
 
-How do I contact technical support?|Use the Contact Us page for technical assistance.
+Does a higher package guarantee a better career?|Not necessarily; learning opportunities and growth also matter.
 
-What are your customer support hours?|Customer support is available Monday to Saturday, 9 AM to 6 PM.
+Can students apply off-campus while preparing for campus placements?|Yes, students can pursue both opportunities.
 
-How can I report a problem with the website?|Contact support and describe the issue.
+Why is networking useful during placements?|Networking can help students learn about opportunities and referrals.
 
-Do you provide product warranties?|Warranty availability depends on the product.
+What is the best time to start placement preparation?|Starting in the second or third year provides sufficient preparation time.
 
-How can I check warranty details?|Warranty information is listed on the product page.
+How should a KIIT student prepare for placements?|Focus on DSA, projects, internships, aptitude, communication skills, and maintaining CGPA.
 
-Can I speak to a live agent?|Yes, live chat support is available during business hours.
+What is the most important factor for placement success?|Consistent preparation across coding, projects, aptitude, and interviews.
+
+How many students were placed in KIIT in 2026?|Around 3500 students secured placement offers during the 2026 placement season.
+
+How many companies visited KIIT in 2026?|More than 200 companies participated in the placement process.
+
+What was the highest package offered in KIIT 2026?|The highest package offered was approximately 44.5 LPA.
+
+What was the average package offered in KIIT 2026?|The average package was around 8.5 LPA.
+
+Which company offered the highest package?|Human Resocia offered one of the highest packages during the placement season.
+
+Which companies recruited the most students?|Infosys, Accenture, TCS, Cognizant, and Capgemini recruited a large number of students.
+
+How many dream offers were received?|Students received more than 1200 dream offers.
+
+What is considered a dream offer?|An offer with a higher-than-average package, typically above 10 LPA.
+
+How many students received multiple offers?|More than 500 students secured multiple job offers.
+
+How many internship opportunities were offered?|Over 800 internship opportunities were available.
+
+Did Microsoft visit KIIT?|Yes, Microsoft has been one of the notable recruiters at KIIT.
+
+Did Amazon visit KIIT?|Yes, Amazon has recruited KIIT students in previous placement seasons.
+
+Did Morgan Stanley recruit from KIIT?|Yes, Morgan Stanley has participated in recruitment drives for eligible students.
+
+Did Meesho visit KIIT?|Yes, Meesho has recruited students for software engineering roles.
+
+Did ION Group visit KIIT?|Yes, ION Group has hired students from KIIT for technology roles.
+
+Which product companies visited KIIT?|Microsoft, Amazon, Meesho, Atlassian, and Yugabyte were among the product companies.
+
+Which service companies visited KIIT?|TCS, Infosys, Wipro, Cognizant, and Capgemini visited KIIT.
+
+What was the placement percentage?|The placement percentage was above 85%.
+
+Which branch received the highest number of offers?|Computer Science and related branches received the highest number of offers.
+
+What roles were offered to CSE students?|Software Engineer, Data Analyst, ML Engineer, SDE, QA Engineer, and Cloud Engineer roles were offered.
+
+Which companies offered software development roles?|Microsoft, Amazon, Meesho, Deloitte, and ION Group offered software development roles.
+
+Were AI and ML roles offered?|Yes, several companies offered AI, ML, and Data Science roles.
+
+What companies hired for data analytics roles?|Deloitte, Accenture, Cognizant, and other analytics-focused companies hired students.
+
+Which company hired the largest number of students?|Infosys was among the companies with the highest number of offers.
+
+What skills are most important for placements?|DSA, projects, communication skills, aptitude, and problem-solving abilities.
+
+Does KIIT provide placement training?|Yes, KIIT provides placement preparation and training support.
+
+When should students start placement preparation?|Students should ideally begin preparation from their second or third year.
+
+How important is DSA for placements?|DSA is one of the most important skills for technical interviews.
+
+How many coding problems should a student solve?|Practicing 200–300 quality coding problems is recommended.
+
+What CGPA is considered safe for placements?|A CGPA above 8 is generally considered competitive.
+
+Do companies consider 10th and 12th marks?|Some companies include academic percentages in their eligibility criteria.
+
+Can students with internships get an advantage?|Yes, internships strengthen resumes and improve interview performance.
+
+Do projects matter in placements?|Yes, strong projects significantly improve placement opportunities.
+
+What technologies should students learn?|DSA, Web Development, AI/ML, Cloud Computing, and Databases are valuable skills.
+
+What is the role of the placement cell?|The placement cell coordinates recruitment activities and connects students with recruiters.
+
+Can students apply off-campus as well?|Yes, students can pursue both on-campus and off-campus opportunities.
+
+What are the top recruiters at KIIT?|Microsoft, Amazon, Deloitte, Accenture, Infosys, TCS, Cognizant, and Capgemini are among the major recruiters.
+
+How many offers were generated in total?|Thousands of job offers were generated during the placement season.
+
+Which sector hired the most students?|The IT and software sector hired the largest number of students.
+
+What is the highest paying role offered?|Software Development Engineer and specialized engineering roles offered the highest compensation.
+
+How can students improve placement chances?|Maintain a good CGPA, practice DSA, build projects, and improve communication skills.
+
+What is the placement process?|The process typically includes shortlisting, online assessments, technical interviews, and HR interviews.
+
+What should students focus on before placements?|Students should focus on coding, projects, aptitude, resume building, and mock interviews.

@@ -6,6 +6,19 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
+import google.generativeai as genai
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+print(os.getenv("GEMINI_API_KEY"))
+genai.configure(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
+
+model = genai.GenerativeModel(
+    "gemini-2.5-flash"
+)
 
 try:
     nltk.data.find('tokenizers/punkt')
@@ -69,7 +82,7 @@ faq_vectors = vectorizer.fit_transform(cleaned_questions)
 
 print(faq_vectors.shape)
 
-def get_answer(user_question):   
+def get_answer(user_question):
 
     cleaned_user_question = " ".join(
         preprocess(user_question)
@@ -84,15 +97,33 @@ def get_answer(user_question):
         faq_vectors
     )
 
-    print(cleaned_user_question)
-    print(similarities)
-
     best_match_index = np.argmax(similarities)
 
     best_score = similarities[0][best_match_index]
 
-    if best_score < 0.3:
-        return "Sorry, I don't understand that question."
-    else:
-        return answers[best_match_index]
+    if best_score < 0.2:
+        return "Sorry, I couldn't find relevant information."
 
+    retrieved_context = answers[best_match_index]
+
+    print("Retrieved Context:", retrieved_context)
+
+    prompt = f"""
+    You are a helpful customer support assistant.
+
+    Use the context below to answer the user's question in your own words.
+
+    Context:
+    {retrieved_context}
+
+    User Question:
+    {user_question}
+
+    Give a natural conversational response.
+    """
+
+    response = model.generate_content(prompt)
+
+    print("Gemini Response:", response.text)
+
+    return response.text

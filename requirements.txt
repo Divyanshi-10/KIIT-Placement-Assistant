@@ -2,4 +2,5 @@ Flask
 nltk
 numpy
 scikit-learn
-gunicorn
+google-generativeai
+python-dotenv
